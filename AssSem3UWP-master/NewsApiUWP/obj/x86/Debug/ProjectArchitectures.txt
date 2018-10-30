@@ -1,0 +1,1 @@
+C:\Users\QUANG HAI\source\repos\NewsApiUWP\NewsApiUWP\NewsApiUWP.csproj;x86
